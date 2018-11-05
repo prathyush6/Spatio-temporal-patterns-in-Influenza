@@ -1,0 +1,60 @@
+State or Region code,State or Region name,Abbreviation,Region code
+91,New England Region,NENG,1
+9,Connecticut,CT,1
+23,Maine,ME,1
+25,Massachusetts,MA,1
+33,New Hampshire,NH,1
+44,Rhode Island,RI,1
+50,Vermont,VT,1
+92,Mideast Region,MEST,2
+10,Delaware,DE,2
+11,District of Columbia,DC,2
+24,Maryland,MD,2
+34,New Jersey,NJ,2
+36,New York,NY,2
+42,Pennsylvania,PA,2
+93,Great Lakes Region,GLAK,3
+17,Illinois,IL,3
+18,Indiana,IN,3
+26,Michigan,MI,3
+39,Ohio,OH,3
+55,Wisconsin,WI,3
+94,Plains Region,PLNS,4
+19,Iowa,IA,4
+20,Kansas,KS,4
+27,Minnesota,MN,4
+29,Missouri,MO,4
+31,Nebraska,NE,4
+38,North Dakota,ND,4
+46,South Dakota,SD,4
+95,Southeast Region,SEST,5
+1,Alabama,AL,5
+5,Arkansas,AR,5
+12,Florida,FL,5
+13,Georgia,GA,5
+21,Kentucky,KY,5
+22,Louisiana,LA,5
+28,Mississippi,MS,5
+37,North Carolina,NC,5
+45,South Carolina,SC,5
+47,Tennessee,TN,5
+51,Virginia,VA,5
+54,West Virginia,WV,5
+96,Southwest Region,SWST,6
+4,Arizona,AZ,6
+35,New Mexico,NM,6
+40,Oklahoma,OK,6
+48,Texas,TX,6
+97,Rocky Mountain Region,RKMT,7
+8,Colorado,CO,7
+16,Idaho,ID,7
+30,Montana,MT,7
+49,Utah,UT,7
+56,Wyoming,WY,7
+98,Far West Region,FWST,8
+2,Alaska,AK,8
+6,California,CA,8
+15,Hawaii,HI,8
+32,Nevada,NV,8
+41,Oregon,OR,8
+53,Washington,WA,8
